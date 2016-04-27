@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLanguageUpdate</string>
+    <string name="next">Next Page</string>
+    <string name="testText">Test text</string>
+    <string name="switch_language">switch Language</string>
+
+    <string name="curr_Language">English</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">更新项目语言</string>
+    <string name="next">下一頁</string>
+    <string name="testText">测试文字</string>
+    <string name="switch_language">切换语言</string>
+    <string name="curr_Language">简体中文</string>
+</resources>
